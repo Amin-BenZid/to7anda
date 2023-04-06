@@ -1,0 +1,665 @@
+# Webalizer V2.23-08 Incremental Data - 04/05/2023 18:43:21
+2023 4 5 18 43 21
+8400 8251 60 123 28 15 13107109 7790 107 0
+13 10 1428 1 5
+3077 3055 4004354 11 2885 55
+186 174 1843934 7 105 8
+3817 3751 5192006 20 3580 22
+1293 1251 1461065 14 1214 16
+27 20 605750 13 6 6
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 3519 1
+18 15 281623 3
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 3519 1
+1151 1123 2164426 1052
+1267 1242 5226732 1056
+2437 2410 1450711 2356
+1401 1401 62761 1401
+575 569 127188 558
+62 47 1101717 8
+4 0 3380 2
+1428 1412 2289154 1322
+2 2 3364 2
+47 27 383197 25
+0 0 0 0
+0 0 0 0
+4 0 3380 2
+0 0 0 0
+2 1 2438 1
+0
+0
+0
+8251
+0
+0
+0
+0
+0
+2
+0
+0
+0
+12
+17
+0
+7
+0
+0
+0
+0
+111
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/assets/js/jquery-easy-pie-chart/jquery.easy-pie-chart.js
+0 4 0 6884 0 0
+/assets/js/todo-init.js
+0 4 0 972 0 0
+/assets/js/bootstrap-fileinput-master/css/fileinput.css
+0 4 0 4608 0 0
+/Sdl_WS/list_of_appartement_tags/
+0 3 0 298 0 0
+/assets/js/sdl/administrators.js
+0 3 0 8211 0 0
+/Sdl_WS/list_apartements_by_owner/
+0 7 0 725 0 0
+/assets/js/icheck/skins/square/_all.css
+0 4 0 3652 0 0
+/assets/js/icheck/skins/minimal/_all.css
+0 4 0 3640 0 0
+/assets/css/bootstrap.min.css
+0 15 0 250272 0 0
+/assets/js/owl.carousel.js
+0 4 0 33840 0 0
+/assets/js/switchery/switchery.min.js
+0 4 0 19992 0 0
+/assets/img/gcs.png
+0 24 0 3474301 0 0
+/assets/img/male.png
+0 3 0 335250 0 0
+/assets/js/jquery-migrate.js
+0 4 0 11504 0 0
+/assets/js/gritter.js
+0 4 0 3400 0 0
+/assets/js/icheck/skins/polaris/polaris.css
+0 4 0 1472 0 0
+/assets/js/sparkline/jquery.sparkline.js
+0 4 0 93672 0 0
+/assets/css/icomoon-weather.css
+0 15 0 325243 0 0
+/assets/js/earning-chart-init.js
+0 4 0 2136 0 0
+/assets/js/jquery-1.10.2.min.js
+0 4 0 127608 0 0
+/assets/js/flot-chart/jquery.flot.crosshair.js
+0 4 0 6020 0 0
+/assets/js/icheck/skins/flat/_all.css
+0 4 0 3396 0 0
+/assets/js/pulstate.js
+0 4 0 624 0 0
+/assets/js/sdl/residences.js
+0 2 0 1414 0 0
+/assets/js/vector-map/jquery-jvectormap-world-mill-en.js
+0 4 0 202436 0 0
+/assets/css/jquery-ui-1.10.3.css
+0 15 0 55501 0 0
+/assets/js/scripts.js
+0 4 0 5300 0 0
+/sdl/residences/
+0 16 0 86960 0 0
+/assets/img/sort_asc.png
+0 4 0 4084 0 0
+/uploads/1679983986123654789.png
+0 5 0 789485 0 0
+/assets/css/style-responsive.css
+0 16 0 20312 0 0
+/sdl/service_r/
+0 1 0 5041 0 0
+/sdl/s_statistiques/
+0 1 0 4762 0 0
+/assets/js/jquery.pulsate.min.js
+0 4 0 2892 0 0
+/sdl/tags/
+0 2 0 21930 0 0
+/assets/js/sparkline/sparkline-init.js
+0 4 0 2088 0 0
+/assets/js/jquery-ui/jquery-ui-1.10.1.custom.min.css
+0 4 0 19828 0 0
+/assets/js/jquery.nicescroll.js
+0 4 0 62292 0 0
+/assets/js/chart.min.js
+0 4 0 256436 0 0
+/sdl/profil/
+0 4 0 20009 0 0
+/sdl/
+0 36 0 148061 1 1
+/Sdl_WS/get_owner_by_id/
+0 3 0 18 0 0
+/assets/js/gritter/css/jquery.gritter.css
+0 4 0 2332 0 0
+/assets/js/data-table/css/dataTables.tableTools.css
+0 4 0 8192 0 0
+/sdl/a_histories/
+0 1 0 5109 0 0
+/assets/js/data-table/css/dataTables.colVis.min.css
+0 4 0 3268 0 0
+/assets/js/sdl/a_histories.js
+0 1 0 460 0 0
+/assets/css/owl.carousel.css
+0 4 0 1880 0 0
+/sdl/owners/
+0 8 0 89903 0 0
+/assets/js/icheck/skins/line/_all.css
+0 4 0 6156 0 0
+/assets/js/flot-chart/jquery.flot.js
+0 4 0 85964 0 0
+/sdl/employees/
+0 8 0 54178 0 0
+/assets/js/flot-chart/jquery.flot.stack.js
+0 4 0 7232 0 0
+/assets/js/sdl/tags.js
+0 1 0 2034 0 0
+/assets/img/female.png
+0 3 0 355389 0 0
+/assets/js/data-table-init.js
+0 4 0 3416 0 0
+/assets/js/data-table/css/dataTables.scroller.css
+0 4 0 1132 0 0
+/Sdl_WS/satisfaction/
+0 4 0 212 0 0
+/assets/img/sort_both.png
+0 4 0 4324 0 0
+/assets/js/jquery-easy-pie-chart/jquery.easy-pie-chart.css
+0 4 0 564 0 0
+/assets/js/data-table/js/dataTables.responsive.min.js
+0 4 0 9716 0 0
+/assets/js/vector-map/jquery-jvectormap-1.2.2.min.js
+0 4 0 34436 0 0
+/assets/js/switchery/switchery.min.css
+0 4 0 948 0 0
+/sdl/reclamations/
+0 2 0 12884 0 0
+/assets/js/sdl/blocks.js
+0 2 0 2644 0 0
+/assets/js/data-table/css/dataTables.responsive.css
+0 4 0 1984 0 0
+/assets/js/flot-chart/jquery.flot.resize.js
+0 4 0 4056 0 0
+/assets/js/icheck/skins/all.css
+0 4 0 976 0 0
+/assets/js/data-table/js/dataTables.tableTools.min.js
+0 4 0 35668 0 0
+/assets/js/jquery-1.11.1.min.js
+0 21 0 680417 0 0
+/assets/js/sdl/reclamations.js
+0 1 0 460 0 0
+/Sdl_WS/list_apartements_by_bloc_id/
+0 1 0 81 0 0
+/assets/js/dashboard-vmap-init.js
+0 4 0 2288 0 0
+/assets/js/slidebars.min.js
+0 4 0 13348 0 0
+/assets/js/jquery-ui/jquery-ui-1.10.1.custom.min.js
+0 4 0 230572 0 0
+/assets/js/vector-map/jquery-jvectormap-1.1.1.css
+0 4 0 920 0 0
+/
+0 53 0 93485 44 3
+/assets/js/sdl/employees.js
+0 2 0 3148 0 0
+/assets/js/flot-chart/jquery.flot.pie.js
+0 4 0 25204 0 0
+/assets/css/default-theme.css
+0 15 0 5270 0 0
+/Sdl_WS/get_bloc_by_id/
+0 2 0 118 0 0
+/assets/js/gritter/js/jquery.gritter.js
+0 4 0 14204 0 0
+/assets/js/flot-chart/jquery.flot.tooltip.min.js
+0 4 0 5308 0 0
+/assets/js/bootstrap.min.js
+0 20 0 190423 0 0
+/sdl/apartments/
+0 14 0 105998 0 0
+/assets/js/icheck/skins/icheck.min.js
+0 4 0 8280 0 0
+/assets/js/sdl/
+0 4 0 1840 0 0
+/assets/js/bootstrap-fileinput-master/js/fileinput.js
+0 4 0 57236 0 0
+/assets/css/bootstrap-reset.css
+0 15 0 19828 0 0
+/assets/js/file-input-init.js
+0 4 0 2788 0 0
+/sdl/administrators/
+0 16 0 121073 2 0
+/Sdl_WS/appels_notifications/
+0 7538 0 45222 57 58
+/uploads/1680531321123654789.png
+0 3 0 74574 0 0
+/assets/js/data-table/js/dataTables.colVis.min.js
+0 4 0 11856 0 0
+/assets/js/sdl/profil.js
+0 2 0 2754 0 0
+/assets/js/sdl/owners.js
+0 2 0 7604 0 0
+/sdl/blocks/
+0 8 0 41366 0 0
+/assets/css/font-awesome.css
+0 15 0 70437 0 0
+/assets/js/data-table/js/jquery.dataTables.min.js
+0 4 0 103156 0 0
+/assets/img/gloulouk2.png
+0 4 0 3154156 0 0
+/Sdl_WS/sendsms/
+0 2 0 128 0 0
+/assets/js/easy-pie-chart.js
+0 4 0 1640 0 0
+/Sdl_WS/cin_admin_existe/
+0 2 0 40 0 0
+/assets/js/icheck/skins/futurico/futurico.css
+0 4 0 1388 0 0
+/assets/js/flot-chart/jquery.flot.selection.js
+0 4 0 12656 0 0
+/assets/js/data-table/js/dataTables.scroller.min.js
+0 4 0 12964 0 0
+/assets/fonts/fontawesome-webfont.woff
+0 5 0 327260 0 0
+/assets/js/switchery/switchery-init.js
+0 4 0 2308 0 0
+/assets/js/jquery-countTo/jquery.countTo.js
+0 4 0 3276 0 0
+/Sdl_WS/employees_by_service/
+0 2 0 210 0 0
+/assets/js/data-table/js/bootstrap-dataTable.js
+0 4 0 6284 0 0
+/assets/js/sdl/services.js
+0 2 0 1382 0 0
+/login/
+0 21 0 24903 1 2
+/assets/js/modernizr.min.js
+0 4 0 23396 0 0
+/assets/js/sdl/service_r.js
+0 1 0 1750 0 0
+/assets/js/sdl/apartments.js
+0 2 0 5080 0 0
+/assets/js/sdl/s_statistiques.js
+0 1 0 1386 0 0
+/assets/css/style.css
+0 16 0 260204 0 0
+/Sdl_WS/add_hist_sms/
+0 2 0 36 0 0
+/assets/css/simple-line-icons.css
+0 15 0 30732 0 0
+/assets/css/slidebars.css
+0 4 0 4460 0 0
+/assets/js/data-table/css/jquery.dataTables.css
+0 4 0 8684 0 0
+/sdl/services/
+0 6 0 36417 0 0
+# End Of Table - urls
+# -sites- (monthly)
+34.250.181.165
+0 1 1 3519 1 1680337151
+/
+104.154.121.227
+0 1 1 1682 1 1680457844
+/
+35.164.221.215
+0 1 1 1593 1 1680633844
+/
+35.91.39.12
+0 3 1 4147 1 1680458699
+/
+34.221.115.74
+0 1 1 1593 1 1680458672
+/
+35.87.239.173
+0 1 1 1593 1 1680718357
+/
+173.252.107.3
+0 1 1 1556 1 1680518876
+/
+173.252.111.14
+0 1 1 157897 0 0
+-
+173.252.107.116
+0 2 2 3335 1 1680518886
+/
+40.77.167.96
+0 2 2 3186 2 1680657597
+/
+173.252.107.16
+0 1 1 158464 0 0
+-
+31.13.127.29
+0 1 1 157897 0 0
+-
+173.252.107.13
+0 1 1 157897 0 0
+-
+173.252.95.113
+0 1 1 157897 0 0
+-
+196.203.238.60
+0 139 99 2097745 3 1680619258
+/
+173.252.127.7
+0 3 2 4191 0 0
+-
+173.252.127.20
+0 6 5 204617 0 0
+-
+35.89.66.47
+0 3 1 4333 1 1680373523
+/
+52.24.135.106
+0 1 1 1779 1 1680632584
+/
+31.13.127.10
+0 1 1 157897 0 0
+-
+34.123.116.20
+0 1 1 1682 1 1680371040
+/
+173.252.127.111
+0 3 3 37678 0 0
+-
+173.252.127.117
+0 1 1 1593 1 1680658464
+/
+54.184.117.60
+0 2 1 2802 1 1680373464
+/
+196.225.166.185
+0 15 13 282722 1 1680519694
+/
+34.219.44.33
+0 3 1 4147 1 1680633158
+/
+173.252.107.12
+0 1 1 96392 0 0
+-
+34.134.94.145
+0 1 1 1682 1 1680631648
+/
+159.89.206.70
+0 8 0 6760 2 1680470230
+-
+54.149.149.129
+0 1 1 1779 1 1680545439
+/
+18.236.240.242
+0 1 1 1593 1 1680373466
+/
+34.217.209.46
+0 3 1 4147 1 1680718445
+/
+41.231.233.70
+0 492 492 61784 1 1680603853
+/Sdl_WS/appels_notifications/
+34.219.167.44
+0 1 1 1593 1 1680373371
+/
+173.252.127.12
+0 2 2 27624 0 0
+-
+34.222.226.180
+0 2 1 3124 1 1680633939
+/
+18.236.127.253
+0 3 1 4333 1 1680632612
+/
+173.252.111.24
+0 1 1 157897 0 0
+-
+173.252.107.7
+0 3 2 38636 1 1680518876
+/
+34.215.172.52
+0 1 1 1779 1 1680373498
+/
+40.77.139.39
+0 12 11 115647 0 0
+-
+52.11.36.1
+0 3 1 4333 1 1680718410
+/
+34.211.48.18
+0 6 2 8294 1 1680373482
+/
+52.11.248.174
+0 3 1 4147 1 1680633195
+/
+41.228.241.193
+0 4411 4363 2937773 17 1680601350
+/Sdl_WS/appels_notifications/
+41.228.237.5
+0 171 169 1824454 1 1680428539
+/Sdl_WS/appels_notifications/
+52.39.233.1
+0 1 1 1593 1 1680632844
+/
+40.77.167.187
+0 6 0 3938 0 0
+-
+34.68.101.172
+0 1 1 1682 1 1680547285
+/
+54.38.211.230
+0 3 3 10557 3 1680396509
+/
+35.87.101.26
+0 1 1 1779 1 1680373386
+/
+52.167.144.32
+0 1 1 1593 1 1680529404
+/
+205.185.118.120
+0 1 1 33970 0 0
+-
+54.187.4.67
+0 1 1 1779 1 1680718381
+/
+31.13.127.9
+0 1 0 1023 0 0
+-
+173.252.111.10
+0 1 1 157897 0 0
+-
+173.252.87.22
+0 1 0 808 0 0
+-
+31.13.127.23
+0 1 1 1556 1 1680518883
+/
+41.231.228.149
+0 3058 3043 3969942 44 1680356984
+/Sdl_WS/appels_notifications/
+35.88.98.53
+0 1 1 1779 1 1680458745
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+35.87.239.173
+0 1 1 1593 1 1680718357
+/
+173.252.111.14
+0 1 1 157897 0 0
+-
+40.77.167.96
+0 1 1 1593 1 1680657597
+/
+173.252.127.7
+0 3 2 4191 0 0
+-
+173.252.127.20
+0 6 5 204617 0 0
+-
+173.252.127.111
+0 3 3 37678 0 0
+-
+173.252.127.117
+0 1 1 1593 1 1680658464
+/
+34.217.209.46
+0 3 1 4147 1 1680718445
+/
+173.252.127.12
+0 2 2 27624 0 0
+-
+52.11.36.1
+0 3 1 4333 1 1680718410
+/
+54.187.4.67
+0 1 1 1779 1 1680718381
+/
+173.252.111.10
+0 1 1 157897 0 0
+-
+173.252.87.22
+0 1 0 808 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://gcs-roomservice.tn/
+0 75
+http://gloulouk2.tn/
+0 1
+https://gcs-roomservice.tn/assets/css/font-awesome.css
+0 5
+https://gcs-roomservice.tn/sdl/reclamations/
+0 12
+https://gcs-roomservice.tn/
+0 16
+https://gcs-roomservice.tn/sdl/employees/
+0 197
+https://gcs-roomservice.tn/assets/js/icheck/skins/all.css
+0 24
+https://gcs-roomservice.tn/assets/css/style.css
+0 105
+https://gloulouk2.tn/
+0 11
+https://www.google.com/
+0 1
+- (Direct Request)
+0 126
+https://gcs-roomservice.tn/sdl/tags/
+0 12
+https://gcs-roomservice.tn/sdl/profil/
+0 39
+https://gcs-roomservice.tn/sdl/residences/
+0 173
+https://gcs-roomservice.tn/sdl/owners/
+0 147
+https://www.bing.com/
+0 1
+https://gcs-roomservice.tn/assets/js/data-table/css/jquery.dataTables.css
+0 8
+https://gcs-roomservice.tn/sdl/a_histories/
+0 15
+https://gcs-roomservice.tn/assets/img/gcs.png
+0 1
+https://gcs-roomservice.tn/sdl/
+0 1795
+https://gcs-roomservice.tn/sdl/service_r/
+0 4
+https://gcs-roomservice.tn/login/
+0 57
+https://gcs-roomservice.tn/sdl/services/
+0 904
+https://gcs-roomservice.tn/sdl/apartments/
+0 187
+https://l.facebook.com/
+0 1
+https://gcs-roomservice.tn/sdl/s_statistiques/
+0 20
+https://gcs-roomservice.tn/sdl/administrators/
+0 4086
+https://gcs-roomservice.tn/sdl/blocks/
+0 377
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36
+0 3
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 12
+Mozilla/5.0 (Linux; Android 11; Infinix X6512 Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 C
+0 15
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+0 7249
+cortex/1.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+0 15
+Go-http-client/1.1
+0 10
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 33
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/103.0.50
+0 9
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 17
+python-requests/2.27.1
+0 8
+python-requests/2.28.2
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.166
+0 1022
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
